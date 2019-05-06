@@ -15,7 +15,3 @@ let canOnlySomeComputersRunProgram = computers.some((computer) => {
 
 console.log(canEveryComputerRunProgram);
 console.log(canOnlySomeComputersRunProgram);
-
-
-
-// -- Example 2 -----------------------
